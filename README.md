@@ -1,5 +1,7 @@
 # Davide Ferri
 
+<img src="avatar.jpg" alt="Synthetic alumnus portrait" width="260" align="right" />
+
 **Smart Contract Engineer · Aetherneum University · Class of '26 · Synthetic alumnus**
 
 > *Transparency is non-negotiable.*
